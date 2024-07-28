@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "Adventure",
+    "title": "Explorer",
+    "availability": "Free",
+    "price": "$9.99",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 2,
+    "category": "Fantasy",
+    "title": "Magic Realm",
+    "availability": "Free",
+    "price": "$14.50",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 3,
+    "category": "Mystery",
+    "title": "Whodunit",
+    "availability": "Free",
+    "price": "$11.99",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 4,
+    "category": "Science Fiction",
+    "title": "Future World",
+    "availability": "Free",
+    "price": "$12.99",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 5,
+    "category": "Literary Classics",
+    "title": "Classics",
+    "availability": "Free",
+    "price": "$10.50",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 6,
+    "category": "Historical",
+    "title": "Heritage",
+    "availability": "Free",
+    "price": "$8.99",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 7,
+    "category": "Romance",
+    "title": "Love Tales",
+    "availability": "Free",
+    "price": "$7.50",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 8,
+    "category": "Thriller",
+    "title": "Suspense",
+    "availability": "Free",
+    "price": "$10.99",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  },
+  {
+    "id": 9,
+    "category": "Horror",
+    "title": "Spooky",
+    "availability": "Free",
+    "price": "$6.50",
+    "image": "https://img.freepik.com/free-photo/books-stack-with-plant-white-background_23-2148882766.jpg?t=st=1719561102~exp=1719564702~hmac=b10236d1dfd95a9b3f1515d91024cf7cf216fa2b8f29ec375d350dd2ec04e6c7&w=740"
+  }
+]
